@@ -1,0 +1,6 @@
+{
+  "name": "InternHub API — Internship Management Backend",
+  "description": "Production-grade, beginner-friendly REST API with persistent SQLite database, safe CRUD operations, robust validation, and automated tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
